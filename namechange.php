@@ -2,7 +2,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <?php
-// Скрипт отправки (По идее... Никто не долежен увидеть эту часть сайта. Но я не ебу. Может и смогут.)
+// Скрипт отправки (По идее... Никто не долежен увидеть эту часть сайта. Но я не хз. Может и смогут.)
 if(isset($_POST['chatnamechange'])){
     if(empty($_POST['token'])){echo'Ошибка: Эй. Токен обязателен! <br>';}
     if(empty($_POST['chat_id'])){echo'Ошибка: Эй. ID Беседы - ОБЯЗАТЕЛЬНО!! :D <br>';}
