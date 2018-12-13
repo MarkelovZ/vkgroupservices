@@ -30,7 +30,7 @@ if(isset($_POST['send_message'])){
     Если хотите отправить стикер, оставьте поле "Текст сообщения" пустым
     <br><br>
     <input type="submit" name="send_message" value="Отправить сообщение"> <br> 
-    <p>Статус работы: <font face="Arial, Helvetica, sans-serif"><font color="#008000">ОК </font></font>(17.10.2018 15:52 Saratov)</p>
+    <!--<p>Статус работы: <font face="Arial, Helvetica, sans-serif"><font color="#008000">ОК </font></font>(17.10.2018 15:52 Saratov)</p>-->
 </form>  <br><br><br>  <p>Сайт написал <a href="https://vk.com/z.markelov" target="_blank">Захар Маркелов</a>. Изначально для паблика <a href="https://vk.com/dinocode" target="_blank">DINOCODE</a></p> </center>
 <p align="center"><a href="https://vk.com/@z.markelov-publicchats" target="_blank"><i><b>ИНСТРУКЦИЯ</b></i></a></p>
 <script type="text/javascript" src="https://vk.com/js/api/openapi.js?154"></script>
